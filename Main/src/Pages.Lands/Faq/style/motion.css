@@ -1,0 +1,35 @@
+#particles {
+    animation: particleMotion 5s ease infinite;
+}
+
+@keyframes particleMotion {
+    0% {
+        transform: translateY(0)
+    }
+    50% {
+        transform: translateY(-15px)
+    }
+    100% {
+        transform: translateY(0)
+    }
+}
+
+#leaf {
+    animation: leafMotion 3s ease infinite;
+}
+
+@keyframes leafMotion {
+    0% {
+        transform: rotateX(6deg)
+    }
+    50% {
+        transform: rotateY(-9deg)
+    }
+    100% {
+        transform: rotateX(6deg)
+    }
+}
+
+#faqTopSvgTag {
+    overflow: visible;
+}

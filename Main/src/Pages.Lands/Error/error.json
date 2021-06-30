@@ -1,0 +1,14 @@
+{
+    "404": {
+        "text": "The page you're looking for is not found."
+    },
+    "401": {
+        "text": "you're not logged in."
+    },
+    "1020": {
+        "text": "access denied."
+    },
+    "1098": {
+        "text": "Error Not Found"
+    }
+}

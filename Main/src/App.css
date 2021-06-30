@@ -1,0 +1,20 @@
+
+.LandingMiddle {
+  position: relative;
+  padding-bottom: 50px;
+  background-color: #2C323D;
+  height: 100%;
+}
+
+.loader {
+  background-color: #1A202C;
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div#root {
+  overflow-x: hidden;
+}

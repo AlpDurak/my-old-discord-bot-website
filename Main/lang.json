@@ -1,0 +1,167 @@
+{
+    "tr": {
+        "Language": "Türkçe",
+        "_Header1": {
+            "Login": "Giriş Yap",
+            "Leave a comment to Wowl on Top.gg": "Top.gg'de Wowl'a yorum yap",
+            "Vote Wowl on Top.gg": "Top.gg'de Wowl'a oy ver",
+            "Invite Wowl to your guild": "Wowl'u sunucuna davet et"
+        },
+        "_Menu1": {
+            "Profile": "Profil",
+            "My Servers": "Sunucularım",
+            "Language": "Dil",
+            "Premium": "Premium",
+            "Admin": "Admin",
+            "Log Out": "Çıkış Yap"
+        },
+        "_Drawer1": {
+            "Documents": "Belgeler",
+            "What's New": "Yenilikler",
+            "We're Hiring": "Alımlar Açık"
+        },
+        "_Action1": {
+            "Never Miss a Discount": "Asla İndirimleri Kaçırmayın",
+            "keyword": "İndirimleri",
+            "Wowl is a Discord Bot that can post game discounts, notify your members when you post/stream/tweet. Wowl can filter messages and moderate your server pretty well.": "Wowl, oyun indirimleri paylaşabilen, paylaşım yaptığınızda / canlı yayın açtığınızda / tweet attığınızda üyelerinizi bilgilendiren bir Discord Botudur. Wowl mesajları filtreleyebilir ve sunucunuzu oldukça iyi yönetebilir.",
+            "Get Started": "Kullanmaya Başla"
+        },
+        "_Features1": {
+            "We care about your Privacy": "Gizliliğine önem veriyoruz",
+            "We only store your Avatar, Discord ID, Discord Tag and Guilds as User Data. Your guilds are encrypted in our DataBase.": "Kullanıcı verisi olarak sadece Avatarınızı, Discord ID'nizi, Tag'lerinizi ve Sunucularınızı kullanıyoruz. Sunucularınız veri tabanımızda kayıtlı.",
+            "Wowl is always there for you": "Wowl Her Zaman Yanınızda",
+            "Wowl has a 99,7% uptime on its every system to give you the best service, just like you deserve 😊": "Wowl her hizmetinde %99,7 oranında aktifliğe sahip, Tıpkı hakettiğiniz gibi! 😊",
+            "You are secure with Wowl": "Wowl'la Güvendesiniz",
+            "All of your data is saved in a secure DataBase hosted by us.": "Tüm verileriniz bize ait bir Veri Tabanında tutulmakta.",
+            "Customize everything": "Herşeyi Kişiselleştirin",
+            "You can customize pretty much everything in Wowl's commands.": "Wowl komutlarında neredeyse her şeyi özelleştirebilirsiniz.",
+            "Filter your messages": "Mesajları Filtreleyin",
+            "With Wowl you can choose your own words to filter in your guild.": "Wowl sayesinde sunucunuzda filtrelemek için kendi kelimelerinizi seçebilirsiniz.",
+            "Notify your members": "Üyelerinizi Bilgilendirin",
+            "Wowl can automatically post a message in your guild when you stream/post/tweet.": "Wowl tweet attığınızda,paylaşımda bulunduğunuzda ya da yayına girdiğinizde sunucunuza bir bildirim gönderebilir.",
+            "Save money and time": "Para ve Zaman Kazanın",
+            "Wowl posts game discounts from your favorite Gaming Platforms": "Wowl sizin favori platformlarınızdaki indirimleri sizlerle paylaşır!",
+            "Contact Support": "Desteğe Başvur",
+            "We have a support team ready to help when you need!": "İhtiyacınız olan her anda size yardım etmek için hazırda bekleyen bir ekibimiz var!",
+            "contact support": "destek al"
+        },
+        "_QuestionBanner1": {
+            "Still have questions?": "Hala soruların mı var",
+            "keyword": "soruların",
+            "FAQ": "SSS"
+        },
+        "_PremiumBanner1": {
+            "premium commands": "premium komutlar",
+            "Create your dream guild with Wowl Premium": "Hayalindeki sunucuyu Wowl Premium'la oluştur",
+            "access all the exclusive commands that Wowl has, you will be one step forward then others.": "Wowl'un tüm özel komutlarina erişim akki kazanır ve diğerlerinden bir adım önde olursunuz.",
+            "Learn More": "Daha Fazla"
+        },
+        "_SupportBanner1": {
+            "Need help?": "Yardım lazım mı?",
+            "keyword": "Yardım",
+            "Wowl Help Centre": "Wowl Help Centre",
+            "Join": "Katıl"
+        },
+        "_Footer1": {
+            "All Rights Reserved": "Bütün Hakları Saklıdır"
+        },
+        "_Pricing1": {
+            "Wowl Premium Plans": "Wowl Premium Planları",
+            "with Wowl premium you will get access to all exclusive commands!": "Wowl premium ile tüm Ayrıcalıklara Sahip Olun",
+            "Most Popular": "En Popüler",
+            "Basic": "Temel",
+            "Standart": "Standart",
+            "Ultra": "Ultra",
+            "month": "ay",
+            "1 Wowl Premium Code": "1 Wowl Premium Kodu",
+            "2 Wowl Premium Code": "2 Wowl Premium Kodu",
+            "3 Wowl Premium Code": "3 Wowl Premium Kodu",
+            "You can vote on Wowl's exclusive polls": "Wowl'un ayrıcalıklı oylamalarına katılın",
+            "Includes Discord benefits": "Discord ayrıcalıklarına erişin",
+            "Join": "Katıl"
+        }
+    },
+
+    "en": {
+        "Language": "English",
+        "_Header1": {
+            "Login": "Login",
+            "Leave a comment to Wowl on Top.gg": "Leave a comment to Wowl on Top.gg",
+            "Vote Wowl on Top.gg": "Vote Wowl on Top.gg",
+            "Invite Wowl to your guild": "Invite Wowl to your guild"
+        },
+        "_Menu1": {
+            "Profile": "Profile",
+            "My Servers": "My Servers",
+            "Language": "Language",
+            "Premium": "Premium",
+            "Admin":"Admin",
+            "Log Out": "Log Out"
+        },
+        "_Drawer1": {
+            "Documents": "Documents",
+            "What's New": "What's New",
+            "We're Hiring": "We're Hiring"
+        },
+        "_Action1": {
+            "Never Miss a Discount": "Never Miss a Discount",
+            "keyword": "Discount",
+            "Wowl is a Discord Bot that can post game discounts, notify your members when you post/stream/tweet. Wowl can filter messages and moderate your server pretty well.": "Wowl is a Discord Bot that can post game discounts, notify your members when you post/stream/tweet. Wowl can filter messages and moderate your server pretty well.",
+            "Get Started": "Get Started"
+        },
+        "_Features1": {
+            "We care about your Privacy": "We care about your Privacy",
+            "We only store your Avatar, Discord ID, Discord Tag and Guilds as User Data. Your guilds are encrypted in our DataBase.": "We only store your Avatar, Discord ID, Discord Tag and Guilds as User Data. Your guilds are encrypted in our DataBase.",
+            "Wowl is always there for you": "Wowl is always there for you",
+            "Wowl has a 99,7% uptime on its every system to give you the best service, just like you deserve 😊": "Wowl has a 99,7% uptime on its every system to give you the best service, just like you deserve 😊",
+            "You are secure with Wowl": "You are secure with Wowl",
+            "All of your data is saved in a secure DataBase hosted by us.": "All of your data is saved in a secure DataBase hosted by us.",
+            "Customize everything": "Customize everything",
+            "You can customize pretty much everything in Wowl's commands.": "You can customize pretty much everything in Wowl's commands.",
+            "Filter your messages": "Filter your messages",
+            "With Wowl you can choose your own words to filter in your guild.": "With Wowl you can choose your own words to filter in your guild.",
+            "Notify your members": "Notify your members",
+            "Wowl can automatically post a message in your guild when you stream/post/tweet.": "Wowl can automatically post a message in your guild when you stream/post/tweet.",
+            "Save money and time": "Save money and time",
+            "Wowl posts game discounts from your favorite Gaming Platforms": "Wowl posts game discounts from your favorite Gaming Platforms",
+            "Contact Support": "Contact Support",
+            "We have a support team ready to help when you need!": "We have a support team ready to help when you need!",
+            "contact support": "support"
+        },
+        "_QuestionBanner1": {
+            "Still have questions?": "Still have questions?",
+            "keyword": "questions",
+            "FAQ": "FAQ"
+        },
+        "_PremiumBanner1": {
+            "premium commands": "premium commands",
+            "Create your dream guild with Wowl Premium": "Create your dream guild with Wowl Premium",
+            "access all the exclusive commands that Wowl has, you will be one step forward then others.": "access all the exclusive commands that Wowl has, you will be one step forward then others.",
+            "Learn More": "Learn More"
+        },
+        "_SupportBanner1": {
+            "Need help?": "Need help?",
+            "keyword": "help?",
+            "Wowl Help Centre": "Wowl Help Centre",
+            "Join": "Join"
+        },
+        "_Footer1": {
+            "All Rights Reserved": "All Rights Reserved"
+        },
+        "_Pricing1": {
+            "Wowl Premium Plans": "Wowl Premium Plans",
+            "with Wowl premium you will get access to all exclusive commands!": "with Wowl premium you will get access to all exclusive commands!",
+            "Most Popular": "Most Popular",
+            "Basic": "Basic",
+            "Standart": "Standart",
+            "Ultra": "Ultra",
+            "month": "month",
+            "1 Wowl Premium Code": "1 Wowl Premium Code",
+            "2 Wowl Premium Code": "2 Wowl Premium Code",
+            "3 Wowl Premium Code": "3 Wowl Premium Code",
+            "You can vote on Wowl's exclusive polls": "You can vote on Wowl's exclusive polls",
+            "Includes Discord benefits": "Includes Discord benefits",
+            "Join": "Join"
+        }
+    }
+}
