@@ -31,6 +31,7 @@ export function Footer({
                             })
                         }
                     </Select>
+                    <a href="//www.dmca.com/Protection/Status.aspx?ID=af3d590a-ac46-49c4-a3d4-861b422959c5" title="DMCA.com Protection Status" className="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca-badge-w100-5x1-10.png?ID=af3d590a-ac46-49c4-a3d4-861b422959c5"  alt="DMCA.com Protection Status" /></a>
                 </VStack>
                 <VisuallyHidden>
                     <HStack p={1}>
