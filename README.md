@@ -1,1 +1,1 @@
-## This website was made for my old project and is not being used so I decided to make it private. I'm not working on it and don't remember the use of this even so I can't help if someone watns to set it up, sorry.
+## This website was made for my old project and is not being used so I decided to make it public. I'm not working on it and don't even remember the use of this so I can't help if someone wants to set it up, sorry.
